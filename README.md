@@ -32,7 +32,7 @@ L293D DC Motor Driver - https://www.amazon.com/Controller-H-Bridge-Stepper-Mega2
 
 First I connected the Photocells (See this if needed: https://learn.adafruit.com/photocells/using-a-photocell) to the arduino and checked if each was working. (I used analog pins A0, A1, A2, A3 on the Arduino Uno)
 
-[picture](download.jpeg)
+![alt text](download.jpeg)
 
 Next I did the same with the Moisture Sensor (See this: https://www.instructables.com/id/Arduino-Soil-Moisture-Sensor/) and the Temperature Sensor (See this: https://create.arduino.cc/projecthub/TheGadgetBoy/ds18b20-digital-temperature-sensor-and-arduino-9cc806) (Theses two sensors used pins , respectively A4 and 2)
 
