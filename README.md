@@ -2,7 +2,7 @@
 
 ![alt text](logo.png)
 
-Here lies the blueprints of your own robotic body for your plant buddies.
+## Here lies the blueprints of your own robotic body for your plant buddies.
 
 Pic:
 
