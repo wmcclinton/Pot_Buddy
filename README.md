@@ -35,6 +35,16 @@ Battery Pack - https://www.amazon.com/Vanki-Battery-Holder-Case-Leads/dp/B073XC5
 
 L293D DC Motor Driver - https://www.amazon.com/Controller-H-Bridge-Stepper-Mega2560-Duemilanove/dp/B01BWLICV4/ref=sr_1_16_sspa?s=electronics&ie=UTF8&qid=1536471038&sr=1-16-spons&keywords=l293d+motor+driver&psc=1
 
+### Prerequisites/Installation
+
+You will need the following python libraries (I recommend Python 3) on your Raspberry Pi 3: pyserial, pyrebase, and gtts. Which can all be downloaded through pip installation. 
+
+For example:
+
+```
+sudo pip install <missing pyhton library>
+```
+
 ## Setup
 
 First I connected the Photocells (See this if needed: https://learn.adafruit.com/photocells/using-a-photocell) to the arduino and checked if each was working. (I used analog pins A0, A1, A2, A3 on the Arduino Uno)
@@ -46,16 +56,6 @@ Next I did the same with the Moisture Sensor (See this: https://www.instructable
 *IMPORTANT* Then I connected the Raspberry Pi 3 to the Arduino using the Serial Cable and made sure the connection worked correctly, as seen here: https://www.instructables.com/id/Raspberry-Pi-Arduino-Serial-Communication/. Then after I connected the 6 Volt DC Motor Tank Base with the Battery Pack, and the L293D DC Motor Driver (See this: https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)(The pins I used for the motor driver were ENA: 5, IN1: 6, IN2: 7, IN3: 8, IN4: 9, ENB: 10)
 
 Lastly, I used various sized double-sided sticky foam tape to stick all the parts together.
-
-### Prerequisites/Installation
-
-You will need the following python libraries (I recommend Python 3) on your Raspberry Pi 3: pyserial, pyrebase, and gtts. Which can all be downloaded through pip installation. 
-
-For example:
-
-```
-sudo pip install <missing pyhton library>
-```
 
 ## Authors
 
