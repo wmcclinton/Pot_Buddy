@@ -57,6 +57,10 @@ Next I did the same with the Moisture Sensor (See this: https://www.instructable
 
 Lastly, I used various sized double-sided sticky foam tape to stick all the parts together.
 
+## Run
+
+When your ready run upload the pi_slave.ino code to the Arduino Uno, move the stuff in the pi folder to the Desktop on the Raspberry Pi 3, and run rpi_potbuddy.py to watch the magic.
+
 ## Authors
 
 * [Anoop Babu](https://github.com/anoopbabu29)
