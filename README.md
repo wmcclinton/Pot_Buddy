@@ -1,6 +1,13 @@
 # Pot Buddy
 
+![alt text](logo.png)
+
 Here lies the blueprints of your own robotic body for your plant buddies.
+
+Pic:
+
+![alt text](pic.jpg)
+
 
 ## Getting Started
 
