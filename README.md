@@ -2,7 +2,7 @@
 
 ![alt text](logo.png)
 
-## Here lies the blueprints of your own robotic body for your plant buddies.
+## Here lie the blueprints of your own robotic body for your plant buddies.
 
 Pic:
 
@@ -59,10 +59,12 @@ sudo pip install <missing pyhton library>
 
 ## Authors
 
-* **Willie McClinton**
-
+* [Anoop Babu](https://github.com/anoopbabu29)
+* [Jamshidbek Mirzakhalov](https://github.com/mirzakhalov)
+* [Teresa Flaitz](https://github.com/teresaflaitz)
+* [Willie McClinton](https://github.com/wmcclinton)
 
 ## Acknowledgments
 
 * I want to thank the people at [PenApps](http://pennapps.com/) for their help
-* Also I want to greatly thank my team: , for the amazing time.
+* Also I want to greatly thank my team: [Anoop Babu](https://github.com/anoopbabu29), [Jamshidbek Mirzakhalov](https://github.com/mirzakhalov), [Teresa Flaitz](https://github.com/teresaflaitz), [Willie McClinton](https://github.com/wmcclinton), for the amazing time.
